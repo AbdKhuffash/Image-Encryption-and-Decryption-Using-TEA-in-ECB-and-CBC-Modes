@@ -40,6 +40,3 @@ This repository contains a Python script for encrypting and decrypting images us
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
